@@ -12,8 +12,8 @@
     <version>4.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>my-blog</name>
-    <description>your personal blog</description>
+    <name>5G</name>
+    <description>Technology final project</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -85,8 +85,7 @@
         </plugins>
     </build>
     <!--  @author 13
-          @qq交流群 796794009
-          @email 2449207463@qq.com
-          @link http://13blog.site
+          @email jingtao.an@cambridge.edu.bo
+          @link https://github.com/QWQ460/QWQ460.github.io
     -->
 </project>
